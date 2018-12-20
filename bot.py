@@ -68,7 +68,7 @@ def messages(message):
 			pass
 	else:
 		
-		bot.forward_message(46843664, message.chat.id, message.message_id)
+		bot.forward_message(468437664, message.chat.id, message.message_id)
 		bot.send_message(message.chat.id, str(message.from_user.first_name) + ',' +' я получил сообщение и очень скоро на него отвечу :)')
 
 
