@@ -11,7 +11,7 @@ from time import sleep
 
 #logger = telebot.logger
 #telebot.logger.setLevel(logging.DEBUG) # Outputs debug messages to console.
-bot = telebot.TeleBot('741179276:AAHt-1Cm2MjEqRhxApf6A7zQLbwM79PqLiU')
+bot = telebot.TeleBot('741179276:AAGkvKvXJecDMIYEnfU5k7n5tCGntSQDJAA')
 
 
 
