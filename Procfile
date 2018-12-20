@@ -1,1 +1,1 @@
-bot: python bot.py
+bot: python3.6.5 bot.py
